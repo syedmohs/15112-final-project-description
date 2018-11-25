@@ -1,4 +1,4 @@
-# 15112-final-project-description
+# 15112-final-project
 For my 15112 final project, I will be working to make a ludo game. Basically up to 2 players will
 be able to play with each player starting off with 4 identical characters. The objective of the
 game is to have your characters circle around the ludo board and reach their base and you win.
